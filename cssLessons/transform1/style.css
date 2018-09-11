@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    font-family: sans-serif;
+}
+
+.section{
+    background-color: aquamarine;
+    color: white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.head{
+    margin-left: 20%;
+
+}
+
+.phone,
+.tablet,
+.desctop{
+    background-color: white;
+
+}
+
+.phone{
+    width: 200px;
+    height: 280px;
+    position: absolute;
+    left: 5% ;
+    bottom: 0%;
+    background: white ;
+    z-index: 3;
+}
+
+.tablet{
+    width: 360px;
+    height: 380px;
+    position: absolute;
+    bottom: 0%;
+    left: 10%;
+    z-index: 1;
+}
