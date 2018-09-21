@@ -1,0 +1,46 @@
+body{
+    margin:0;
+    font-family: sans-serif;
+    background-color: azure;
+}
+
+.section{
+    background-color: black;
+    color:olive;
+}
+
+.sp1{
+    background-color: mediumblue;
+}
+
+.s1{
+    background-color: maroon;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+}
+
+.s2{
+    clear: both;
+    background-color: lawngreen;
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+}
+.d1{
+    
+}
+.s3{
+    float: left;
+    background-color: mediumvioletred;
+    height: 90px;
+    width: 950px;
+}
+
+.heading{
+    background-color: wheat;
+    
+}
+.heading:hover{
+    transform: scale(1.5, 1);
+}

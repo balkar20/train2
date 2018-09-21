@@ -13,33 +13,12 @@ body{
     position: relative;
 }
 
-.head{
-    margin-left: 20%;
-
+.heading{
+    width: 100px;
+    height: 100px;
+    background-color: wheat;
+    
 }
-
-.phone,
-.tablet,
-.desctop{
-    background-color: white;
-
-}
-
-.phone{
-    width: 200px;
-    height: 280px;
-    position: absolute;
-    left: 5% ;
-    bottom: 0%;
-    background: white ;
-    z-index: 3;
-}
-
-.tablet{
-    width: 360px;
-    height: 380px;
-    position: absolute;
-    bottom: 0%;
-    left: 10%;
-    z-index: 1;
+.heading:hover{
+    transform: scale(1.5, 1);
 }
