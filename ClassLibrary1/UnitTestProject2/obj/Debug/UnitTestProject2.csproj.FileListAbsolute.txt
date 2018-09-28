@@ -1,0 +1,14 @@
+D:\train2\train2\ClassLibrary1\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\train2\train2\ClassLibrary1\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\train2\train2\ClassLibrary1\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\train2\train2\ClassLibrary1\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+D:\train2\train2\ClassLibrary1\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+D:\train2\train2\ClassLibrary1\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\train2\train2\ClassLibrary1\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\train2\train2\ClassLibrary1\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\train2\train2\ClassLibrary1\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\train2\train2\ClassLibrary1\UnitTestProject2\obj\Debug\UnitTestProject2.csprojAssemblyReference.cache
+D:\train2\train2\ClassLibrary1\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache
+D:\train2\train2\ClassLibrary1\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CopyComplete
+D:\train2\train2\ClassLibrary1\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+D:\train2\train2\ClassLibrary1\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

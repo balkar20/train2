@@ -1,0 +1,16 @@
+D:\train2\train2\ClassLibrary1\TestProj1\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+D:\train2\train2\ClassLibrary1\TestProj1\obj\Debug\netcoreapp2.1\TestProj1.csproj.CoreCompileInputs.cache
+D:\train2\train2\ClassLibrary1\TestProj1\obj\Debug\netcoreapp2.1\TestProj1.AssemblyInfoInputs.cache
+D:\train2\train2\ClassLibrary1\TestProj1\obj\Debug\netcoreapp2.1\TestProj1.AssemblyInfo.cs
+D:\train2\train2\ClassLibrary1\TestProj1\bin\Debug\netcoreapp2.1\TestProj1.deps.json
+D:\train2\train2\ClassLibrary1\TestProj1\bin\Debug\netcoreapp2.1\TestProj1.dll
+D:\train2\train2\ClassLibrary1\TestProj1\bin\Debug\netcoreapp2.1\TestProj1.pdb
+D:\train2\train2\ClassLibrary1\TestProj1\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+D:\train2\train2\ClassLibrary1\TestProj1\obj\Debug\netcoreapp2.1\TestProj1.csprojAssemblyReference.cache
+D:\train2\train2\ClassLibrary1\TestProj1\obj\Debug\netcoreapp2.1\TestProj1.csproj.CopyComplete
+D:\train2\train2\ClassLibrary1\TestProj1\obj\Debug\netcoreapp2.1\TestProj1.dll
+D:\train2\train2\ClassLibrary1\TestProj1\obj\Debug\netcoreapp2.1\TestProj1.pdb
+D:\train2\train2\ClassLibrary1\TestProj1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\train2\train2\ClassLibrary1\TestProj1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\train2\train2\ClassLibrary1\TestProj1\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\train2\train2\ClassLibrary1\TestProj1\bin\Debug\netcoreapp2.1\Mono.Cecil.dll

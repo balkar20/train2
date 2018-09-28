@@ -1,0 +1,6 @@
+D:\train2\train2\ClassLibrary1\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+D:\train2\train2\ClassLibrary1\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+D:\train2\train2\ClassLibrary1\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.CoreCompileInputs.cache
+D:\train2\train2\ClassLibrary1\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+D:\train2\train2\ClassLibrary1\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
+D:\train2\train2\ClassLibrary1\ClassLibrary4\obj\Debug\ClassLibrary4.csprojAssemblyReference.cache
